@@ -1,5 +1,3 @@
-// Cara and I worked together on this :D 
-
 let history = document.querySelector(".history");
 let runningBalance = "0.00";
 let indexBalance= document.querySelector("#balance-amount")
